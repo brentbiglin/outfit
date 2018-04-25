@@ -32,3 +32,7 @@ li {
 	font-family: 'Roboto', sans-serif;
 	list-style-type: none;
 }
+video {
+	 margin-right: auto;
+	 margin-left: auto;
+}
